@@ -1,0 +1,13 @@
+[project]
+name = "mcp-masterclas"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "agentic-terminal-pranjal>=0.1.0",
+    "fastmcp>=3.3.0",
+    "langchain>=1.3.1",
+    "langchain-mcp-adapters>=0.2.2",
+    "mcp>=1.27.1",
+]
